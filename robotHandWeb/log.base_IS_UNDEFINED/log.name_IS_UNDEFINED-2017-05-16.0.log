@@ -1,0 +1,3 @@
+2017-05-16 18:50:25.348 INFO  t.a.Actionyyw [<init>:56] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-16 18:50:25.353 INFO  t.a.Actionyyw [<init>:57] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-16 18:50:31.128 INFO  t.a.Actionyyw [getNewList:355] [main] - 本次即将处理0个航变...

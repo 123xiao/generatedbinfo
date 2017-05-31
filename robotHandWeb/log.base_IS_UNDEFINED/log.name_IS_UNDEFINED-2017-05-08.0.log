@@ -1,0 +1,825 @@
+2017-05-08 08:52:50.612 INFO  t.a.Action [<init>:35] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 08:52:50.615 INFO  t.a.Action [<init>:36] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 08:52:53.135 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:52:53.143 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:52:53.143 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:52:57.359 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:52:57.416 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:52:57.594 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:52:58.774 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:52:58.915 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:53:00.027 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:53:00.086 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:53:00.086 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:53:00.340 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:53:00.999 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:53:03.524 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:53:03.588 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:53:03.608 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:53:03.617 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:53:03.626 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:53:03.627 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:53:03.627 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:53:04.132 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:53:04.142 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:53:04.368 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:53:04.383 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:53:04.393 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:53:04.399 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:53:04.399 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:53:08.374 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:53:08.407 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:53:08.562 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:53:09.704 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:53:09.839 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:53:10.941 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:53:11.001 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:53:11.002 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:53:11.206 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:53:11.846 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:53:14.340 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:53:14.401 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:53:14.416 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:53:14.425 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:53:14.432 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:53:14.433 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:53:14.433 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:53:14.930 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:53:14.940 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:53:15.103 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:53:15.125 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:53:15.130 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:53:15.135 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:53:15.135 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:53:19.054 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:53:19.093 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:53:19.237 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:53:20.404 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:53:20.551 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:53:21.644 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:53:21.700 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:53:21.700 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:53:21.884 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:53:22.554 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:53:24.957 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:53:25.029 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:53:25.054 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:53:25.065 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:53:25.076 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:53:25.076 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:53:25.076 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:53:25.623 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:53:25.631 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:53:25.794 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:53:25.815 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:53:25.819 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:53:25.826 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:53:25.826 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:53:29.779 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:53:29.825 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:53:29.955 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:53:31.136 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:53:31.253 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:53:32.366 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:53:32.421 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:53:32.421 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:53:32.613 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:53:33.227 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:53:35.580 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:53:35.644 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:53:35.655 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:53:35.670 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:53:35.680 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:53:35.680 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:53:35.681 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:53:36.301 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:53:36.312 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:53:36.489 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:53:36.509 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:53:36.525 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:53:36.577 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:53:36.578 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:53:40.478 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:53:40.524 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:53:40.679 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:53:41.834 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:53:41.960 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:53:43.049 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:53:43.110 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:53:43.110 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:53:43.292 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:53:43.912 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:53:46.331 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:53:46.392 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:53:46.409 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:53:46.418 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:53:46.426 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:53:46.426 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:53:46.426 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:53:46.966 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:53:46.975 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:53:47.145 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:53:47.160 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:53:47.169 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:53:47.173 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:53:47.173 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:53:51.083 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:53:51.127 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:53:51.292 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:53:52.447 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:53:52.565 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:53:53.649 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:53:53.730 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:53:53.730 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:53:53.924 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:53:54.548 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:53:57.094 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:53:57.151 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:53:57.172 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:53:57.184 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:53:57.196 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:53:57.196 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:53:57.196 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:53:57.713 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:53:57.719 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:53:57.922 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:53:57.941 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:53:57.946 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:53:57.954 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:53:57.955 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:54:01.876 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:54:01.908 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:54:02.093 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:54:03.222 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:54:03.343 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:54:04.524 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:54:04.634 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:54:04.635 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:54:04.828 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:54:05.429 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:57:42.656 INFO  t.a.Action [<init>:35] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 08:57:42.659 INFO  t.a.Action [<init>:36] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 08:57:45.196 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:57:45.204 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:57:45.204 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:57:49.396 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:57:49.445 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:57:49.635 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:57:50.818 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:57:50.986 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:57:52.081 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:57:52.146 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:57:52.147 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:57:52.428 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:57:53.096 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:57:55.699 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:57:55.760 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:57:55.772 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:57:55.782 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:57:55.791 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:57:55.791 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:57:55.792 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:57:56.310 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:57:56.315 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:57:56.539 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:57:56.555 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:57:56.562 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:57:56.567 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:57:56.567 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:58:00.501 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:58:00.538 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:58:00.700 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:58:01.840 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:58:01.981 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:58:03.057 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:58:03.125 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:58:03.125 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:58:03.343 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 08:58:04.009 INFO  t.a.Action [execRobot:119] [main] - 找到了他在74
+2017-05-08 08:58:06.609 INFO  t.a.Action [execRobot:126] [main] - 一共有4选项.
+2017-05-08 08:58:06.670 INFO  t.a.Action [execRobot:133] [main] - 变更
+2017-05-08 08:58:06.682 INFO  t.a.Action [execRobot:133] [main] - 取消,有保护航班
+2017-05-08 08:58:06.690 INFO  t.a.Action [execRobot:133] [main] - 取消,无保护航班
+2017-05-08 08:58:06.705 INFO  t.a.Action [execRobot:133] [main] - 取消后恢复
+2017-05-08 08:58:06.705 INFO  t.a.Action [execRobot:135] [main] - 该订单航班原因是：{}变更
+2017-05-08 08:58:06.705 INFO  t.a.Action [execRobot:137] [main] - 填写变更后起降时间。。。。
+2017-05-08 08:58:07.217 INFO  t.a.Action [execRobot:161] [main] - 回到主窗口。。。。
+2017-05-08 08:58:07.224 INFO  t.a.Action [repetitionRobot:172] [main] - =====================================================
+2017-05-08 08:58:07.385 INFO  t.a.Action [repetitionRobot:176] [main] - 关闭了详情，打开了订单管理！
+2017-05-08 08:58:07.401 INFO  t.a.Action [repetitionRobot:178] [main] - 选中了订单管理.........
+2017-05-08 08:58:07.405 INFO  t.a.Action [execRobot:50] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 08:58:07.411 INFO  t.a.Action [execRobot:51] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 08:58:07.412 INFO  t.a.Action [execRobot:52] [main] - 进入订单管理操作...
+2017-05-08 08:58:11.343 INFO  t.a.Action [execRobot:66] [main] - 回到主窗口.....
+2017-05-08 08:58:11.390 INFO  t.a.Action [execRobot:72] [main] - 订单的状态是2，为出票状态
+2017-05-08 08:58:11.551 INFO  t.a.Action [execRobot:80] [main] - 打开了消息窗口。。。。。。
+2017-05-08 08:58:12.716 INFO  t.a.Action [execRobot:88] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 08:58:12.834 INFO  t.a.Action [execRobot:91] [main] - 点击了航变。。。。
+2017-05-08 08:58:13.913 INFO  t.a.Action [execRobot:100] [main] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 08:58:13.991 INFO  t.a.Action [execRobot:100] [main] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 08:58:13.991 INFO  t.a.Action [execRobot:106] [main] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 08:58:14.195 INFO  t.a.Action [execRobot:112] [main] - 页面上有365个div
+2017-05-08 11:36:55.919 INFO  t.a.Action [<init>:29] [main] - Action被初始化了....
+2017-05-08 11:36:56.002 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:36:56 
+2017-05-08 11:36:57.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:36:57 
+2017-05-08 11:36:58.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:36:58 
+2017-05-08 11:36:59.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:36:59 
+2017-05-08 11:37:00.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:00 
+2017-05-08 11:37:01.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:01 
+2017-05-08 11:37:02.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:02 
+2017-05-08 11:37:03.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:03 
+2017-05-08 11:37:04.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:04 
+2017-05-08 11:37:05.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:05 
+2017-05-08 11:37:06.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:06 
+2017-05-08 11:37:07.001 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:07 
+2017-05-08 11:37:08.002 INFO  t.a.Action [run:190] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:37:08 
+2017-05-08 11:40:10.067 INFO  t.a.Action [<init>:26] [main] - Action被初始化了....
+2017-05-08 11:41:42.400 INFO  t.a.Action [<init>:26] [main] - Action被初始化了....
+2017-05-08 11:41:43.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:43 
+2017-05-08 11:41:44.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:44 
+2017-05-08 11:41:45.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:45 
+2017-05-08 11:41:46.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:46 
+2017-05-08 11:41:47.002 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:47 
+2017-05-08 11:41:48.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:48 
+2017-05-08 11:41:49.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:49 
+2017-05-08 11:41:50.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:50 
+2017-05-08 11:41:51.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:51 
+2017-05-08 11:41:52.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:52 
+2017-05-08 11:41:53.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:53 
+2017-05-08 11:41:54.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:54 
+2017-05-08 11:41:55.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:55 
+2017-05-08 11:41:56.002 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:56 
+2017-05-08 11:41:57.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:57 
+2017-05-08 11:41:58.002 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:58 
+2017-05-08 11:41:59.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:41:59 
+2017-05-08 11:42:00.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:42:00 
+2017-05-08 11:42:01.000 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:42:01 
+2017-05-08 11:42:02.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:42:02 
+2017-05-08 11:42:03.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:42:03 
+2017-05-08 11:42:04.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:42:04 
+2017-05-08 11:42:05.002 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:42:05 
+2017-05-08 11:42:06.001 INFO  t.a.Action [run:186] [pool-2-thread-1] - Hello MyJob  2017-05-08 11:42:06 
+2017-05-08 11:57:32.058 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 11:57:32.062 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 11:59:52.716 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 11:59:52.720 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 12:01:13.294 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 12:01:13.297 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 12:02:00.454 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 12:02:00.457 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:33:36.564 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:33:36.568 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:34:44.371 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:34:44.377 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:47:33.990 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:47:33.994 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:48:02.824 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:48:02.829 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:48:53.618 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:48:53.623 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:50:34.712 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:50:34.717 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:51:13.687 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:51:13.690 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:52:38.258 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:52:38.263 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:53:00.550 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:53:00.553 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:55:16.796 INFO  t.a.Action [<init>:32] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 13:55:16.800 INFO  t.a.Action [<init>:33] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 13:56:00.021 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:56:00.035 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:56:00.035 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:56:04.226 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:56:04.345 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:56:04.538 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:56:05.700 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:56:05.865 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:56:06.967 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:56:07.029 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:56:07.029 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:56:07.325 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:56:08.078 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:56:10.669 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:56:10.741 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:56:10.753 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:56:10.761 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:56:10.770 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:56:10.770 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:56:10.770 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:56:11.344 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:56:11.350 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:56:11.593 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:56:11.621 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:56:11.628 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:56:11.634 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:56:11.635 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:56:15.670 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:56:15.726 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:56:15.895 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:56:17.054 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:56:17.196 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:56:18.309 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:56:18.368 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:56:18.369 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:56:18.602 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:56:19.269 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:56:21.832 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:56:21.895 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:56:21.914 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:56:21.924 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:56:21.932 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:56:21.932 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:56:21.932 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:56:22.569 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:56:22.577 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:56:22.785 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:56:22.799 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:56:22.805 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:56:22.812 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:56:22.812 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:56:26.827 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:56:26.890 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:56:27.065 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:56:28.226 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:56:28.374 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:56:29.477 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:56:29.540 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:56:29.540 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:56:29.762 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:56:30.426 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:56:32.921 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:56:32.982 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:56:33.000 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:56:33.013 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:56:33.021 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:56:33.021 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:56:33.021 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:56:33.578 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:56:33.583 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:56:33.836 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:56:33.872 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:56:33.881 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:56:33.888 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:56:33.889 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:56:37.845 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:56:37.905 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:56:38.086 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:56:39.262 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:56:39.415 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:56:40.514 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:56:40.570 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:56:40.570 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:56:40.789 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:56:41.428 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:56:43.862 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:56:43.928 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:56:43.945 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:56:43.954 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:56:43.962 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:56:43.963 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:56:43.963 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:56:44.498 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:56:44.503 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:56:44.717 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:56:44.769 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:56:44.808 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:56:44.815 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:56:44.816 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:56:48.668 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:56:48.728 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:56:48.895 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:56:50.061 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:56:50.214 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:56:51.304 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:56:51.368 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:56:51.368 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:56:51.612 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:56:52.206 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:56:54.607 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:56:54.682 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:56:54.694 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:56:54.707 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:56:54.716 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:56:54.717 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:56:54.717 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:56:55.248 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:56:55.256 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:56:55.463 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:56:55.475 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:56:55.486 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:56:55.494 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:56:55.494 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:56:59.471 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:56:59.521 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:56:59.705 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:57:00.868 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:57:01.011 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:57:02.119 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:57:02.177 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:57:02.177 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:57:02.388 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:57:03.009 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:57:05.411 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:57:05.472 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:57:05.487 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:57:05.496 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:57:05.503 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:57:05.504 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:57:05.504 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:57:06.029 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:57:06.035 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:57:06.216 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:57:06.231 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:57:06.237 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:57:06.245 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:57:06.245 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:57:10.249 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:57:10.318 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:57:10.501 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:57:11.654 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:57:11.802 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:57:12.885 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:57:12.943 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:57:12.943 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:57:13.158 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:57:13.761 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:57:16.184 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:57:16.241 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:57:16.260 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:57:16.269 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:57:16.277 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:57:16.277 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:57:16.277 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:57:16.825 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:57:16.829 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:57:17.012 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:57:17.024 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:57:17.030 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:57:17.040 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:57:17.041 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:57:21.046 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:57:21.102 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:57:21.278 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:57:22.446 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:57:22.610 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:57:23.694 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:57:23.757 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:57:23.757 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:57:23.955 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:57:24.595 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:57:27.456 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:57:27.517 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:57:27.526 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:57:27.533 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:57:27.544 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:57:27.544 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:57:27.544 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:57:28.169 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:57:28.173 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:57:28.437 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:57:28.558 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:57:28.567 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:57:28.575 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:57:28.575 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:57:32.614 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:57:32.665 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:57:32.949 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:57:34.106 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:57:34.237 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:57:35.336 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:57:35.396 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:57:35.397 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:57:35.593 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:57:36.467 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:57:38.886 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:57:38.947 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:57:38.963 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:57:38.972 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:57:38.980 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:57:38.980 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:57:38.980 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:57:39.519 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:57:39.525 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:57:39.730 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:57:39.742 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:57:39.752 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:57:39.794 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:57:39.794 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:57:43.849 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:57:43.914 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:57:44.078 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:57:45.237 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:57:45.372 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:57:46.490 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:57:46.598 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:57:46.598 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:57:46.850 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:57:47.525 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:57:50.355 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:57:50.413 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:57:50.423 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:57:50.430 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:57:50.439 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:57:50.439 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:57:50.439 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:57:51.261 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:57:51.266 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:57:51.452 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:57:51.464 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:57:51.470 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:57:51.476 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:57:51.476 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:57:55.501 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:57:55.560 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:57:55.701 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:57:56.872 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:57:57.013 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:57:58.122 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:57:58.183 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:57:58.184 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:57:58.393 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:57:59.275 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:58:02.089 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:58:02.150 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:58:02.159 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:58:02.168 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:58:02.180 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:58:02.180 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:58:02.181 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:58:02.776 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:58:02.779 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:58:02.963 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:58:02.979 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:58:02.994 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:58:03.000 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:58:03.000 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:58:06.866 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:58:06.918 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:58:07.173 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:58:08.329 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:58:08.503 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:58:09.603 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:58:09.695 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:58:09.695 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:58:09.917 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:58:10.554 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:58:13.270 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:58:13.333 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:58:13.343 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:58:13.352 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:58:13.360 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:58:13.361 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:58:13.361 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:58:13.853 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:58:13.857 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:58:14.166 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:58:14.178 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:58:14.184 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:58:14.190 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:58:14.190 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:58:18.338 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:58:18.419 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:58:18.603 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:58:19.768 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:58:19.909 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:58:21.011 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:58:21.062 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:58:21.063 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:58:21.244 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:58:21.860 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:58:24.589 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:58:24.680 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:58:24.690 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:58:24.700 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:58:24.710 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:58:24.710 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:58:24.710 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:58:25.395 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:58:25.400 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:58:25.559 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:58:25.572 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:58:25.579 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:58:25.602 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:58:25.603 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:58:29.648 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:58:29.698 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:58:29.868 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:58:31.023 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:58:31.161 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 13:58:32.273 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 1、出发KHN,到达TAO(青岛流亭机场)
+2017-05-08 13:58:32.349 INFO  t.a.Action [execRobot:96] [pool-2-thread-1] - 2、出发TAO,到达KHN(南昌昌北机场)
+2017-05-08 13:58:32.349 INFO  t.a.Action [execRobot:102] [pool-2-thread-1] - 地址一共有2个选择
+SC4810  2017-05-10  18:05-19:55   KHN(南昌昌北机场)-TAO(青岛流亭机场)
+SC4909  2017-05-15  07:05-09:00   TAO(青岛流亭机场)-KHN(南昌昌北机场)
+
+2017-05-08 13:58:32.604 INFO  t.a.Action [execRobot:108] [pool-2-thread-1] - 页面上有365个div
+2017-05-08 13:58:33.236 INFO  t.a.Action [execRobot:115] [pool-2-thread-1] - 找到了他在74
+2017-05-08 13:58:35.622 INFO  t.a.Action [execRobot:122] [pool-2-thread-1] - 一共有4选项.
+2017-05-08 13:58:35.681 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 变更
+2017-05-08 13:58:35.690 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,有保护航班
+2017-05-08 13:58:35.699 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消,无保护航班
+2017-05-08 13:58:35.708 INFO  t.a.Action [execRobot:129] [pool-2-thread-1] - 取消后恢复
+2017-05-08 13:58:35.709 INFO  t.a.Action [execRobot:131] [pool-2-thread-1] - 该订单航班原因是：{}变更
+2017-05-08 13:58:35.709 INFO  t.a.Action [execRobot:133] [pool-2-thread-1] - 填写变更后起降时间。。。。
+2017-05-08 13:58:36.193 INFO  t.a.Action [execRobot:157] [pool-2-thread-1] - 回到主窗口。。。。
+2017-05-08 13:58:36.197 INFO  t.a.Action [repetitionRobot:168] [pool-2-thread-1] - =====================================================
+2017-05-08 13:58:36.398 INFO  t.a.Action [repetitionRobot:172] [pool-2-thread-1] - 关闭了详情，打开了订单管理！
+2017-05-08 13:58:36.413 INFO  t.a.Action [repetitionRobot:174] [pool-2-thread-1] - 选中了订单管理.........
+2017-05-08 13:58:36.419 INFO  t.a.Action [execRobot:46] [pool-2-thread-1] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 13:58:36.427 INFO  t.a.Action [execRobot:47] [pool-2-thread-1] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 13:58:36.427 INFO  t.a.Action [execRobot:48] [pool-2-thread-1] - 进入订单管理操作...
+2017-05-08 13:58:40.748 INFO  t.a.Action [execRobot:62] [pool-2-thread-1] - 回到主窗口.....
+2017-05-08 13:58:40.796 INFO  t.a.Action [execRobot:68] [pool-2-thread-1] - 订单的状态是2，为出票状态
+2017-05-08 13:58:40.947 INFO  t.a.Action [execRobot:76] [pool-2-thread-1] - 打开了消息窗口。。。。。。
+2017-05-08 13:58:42.106 INFO  t.a.Action [execRobot:84] [pool-2-thread-1] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 13:58:42.248 INFO  t.a.Action [execRobot:87] [pool-2-thread-1] - 点击了航变。。。。
+2017-05-08 18:06:45.060 INFO  t.a.Action [<init>:41] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:06:45.065 INFO  t.a.Action [<init>:42] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:06:47.831 INFO  t.a.Action [run:197] [main] - 本次即将处理32个航变...
+2017-05-08 18:08:05.267 INFO  t.a.Action [<init>:41] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:08:05.273 INFO  t.a.Action [<init>:42] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:08:19.956 INFO  t.a.Action [<init>:41] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:08:19.964 INFO  t.a.Action [<init>:42] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:09:02.146 INFO  t.a.Action [run:197] [main] - 本次即将处理26个航变...
+2017-05-08 18:34:32.828 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:34:32.833 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:34:35.421 INFO  t.a.Action [getNewList:217] [main] - 本次即将处理6个航变...
+2017-05-08 18:35:55.111 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:35:55.114 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:35:57.682 INFO  t.a.Action [getNewList:217] [main] - 本次即将处理5个航变...
+2017-05-08 18:37:18.222 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:37:18.228 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:37:20.747 INFO  t.a.Action [getNewList:217] [main] - 本次即将处理4个航变...
+2017-05-08 18:39:58.833 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:39:58.837 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:40:01.422 INFO  t.a.Action [getNewList:217] [main] - 本次即将处理3个航变...
+2017-05-08 18:49:23.095 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:49:23.103 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:49:25.734 INFO  t.a.Action [getNewList:217] [main] - 本次即将处理2个航变...
+2017-05-08 18:50:01.153 INFO  t.a.Action [execRobot:57] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 18:50:01.618 INFO  t.a.Action [execRobot:58] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 18:50:04.838 INFO  t.a.Action [execRobot:59] [main] - 进入订单管理操作...
+2017-05-08 18:55:24.820 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:55:24.823 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:57:10.182 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:57:10.185 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:57:12.740 INFO  t.a.Action [getNewList:217] [main] - 本次即将处理4个航变...
+2017-05-08 18:57:12.750 INFO  t.a.Action [execRobot:57] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 18:57:12.760 INFO  t.a.Action [execRobot:58] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 18:57:12.760 INFO  t.a.Action [execRobot:59] [main] - 进入订单管理操作...
+2017-05-08 18:57:17.058 INFO  t.a.Action [execRobot:73] [main] - 回到主窗口.....
+2017-05-08 18:57:17.113 INFO  t.a.Action [execRobot:79] [main] - 订单的状态是2，为出票状态
+2017-05-08 18:57:17.344 INFO  t.a.Action [execRobot:87] [main] - 打开了消息窗口。。。。。。
+2017-05-08 18:57:36.395 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 18:57:36.402 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 18:57:38.956 INFO  t.a.Action [getNewList:217] [main] - 本次即将处理4个航变...
+2017-05-08 18:57:44.654 INFO  t.a.Action [execRobot:57] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 18:57:44.859 INFO  t.a.Action [execRobot:58] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 18:57:55.472 INFO  t.a.Action [execRobot:59] [main] - 进入订单管理操作...
+2017-05-08 18:58:17.187 INFO  t.a.Action [execRobot:73] [main] - 回到主窗口.....
+2017-05-08 18:58:23.028 INFO  t.a.Action [execRobot:79] [main] - 订单的状态是2，为出票状态
+2017-05-08 18:58:30.845 INFO  t.a.Action [execRobot:87] [main] - 打开了消息窗口。。。。。。
+2017-05-08 18:58:43.173 INFO  t.a.Action [execRobot:95] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 18:58:45.591 INFO  t.a.Action [execRobot:98] [main] - 点击了航变。。。。
+2017-05-08 18:59:15.867 INFO  t.a.Action [execRobot:107] [main] - 1、出发JUZ,到达SZX(深圳宝安国际机场)
+2017-05-08 19:10:57.663 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 19:10:57.668 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 19:10:59.993 INFO  t.a.Action [execRobot:57] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 19:11:00.003 INFO  t.a.Action [execRobot:58] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 19:11:00.003 INFO  t.a.Action [execRobot:59] [main] - 进入订单管理操作...
+2017-05-08 19:11:04.154 INFO  t.a.Action [execRobot:74] [main] - 回到主窗口.....
+2017-05-08 19:11:04.220 INFO  t.a.Action [execRobot:80] [main] - 订单的状态是2，为出票状态
+2017-05-08 19:11:04.417 INFO  t.a.Action [execRobot:88] [main] - 打开了消息窗口。。。。。。
+2017-05-08 19:11:05.595 INFO  t.a.Action [execRobot:96] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 19:11:05.751 INFO  t.a.Action [execRobot:99] [main] - 点击了航变。。。。
+2017-05-08 19:11:06.850 INFO  t.a.Action [execRobot:110] [main] - 1、出发05-,到达SZX(深圳宝安国际机场)
+2017-05-08 19:11:06.851 INFO  t.a.Action [execRobot:120] [main] - 地址一共有1个选择
+ZH9940  2017-05-08  20:40-22:35   JUZ(衢州机场)-SZX(深圳宝安国际机场)
+
+2017-05-08 19:11:07.116 INFO  t.a.Action [execRobot:126] [main] - 页面上有211个div
+2017-05-08 19:11:07.353 INFO  t.a.Action [execRobot:133] [main] - 找到了他在22
+2017-05-08 19:11:09.124 INFO  t.a.Action [execRobot:140] [main] - 一共有4选项.
+2017-05-08 19:12:16.536 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 19:12:16.541 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 19:12:18.856 INFO  t.a.Action [execRobot:57] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 19:12:18.863 INFO  t.a.Action [execRobot:58] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 19:12:18.863 INFO  t.a.Action [execRobot:59] [main] - 进入订单管理操作...
+2017-05-08 19:12:22.943 INFO  t.a.Action [execRobot:74] [main] - 回到主窗口.....
+2017-05-08 19:12:23.006 INFO  t.a.Action [execRobot:80] [main] - 订单的状态是2，为出票状态
+2017-05-08 19:12:23.184 INFO  t.a.Action [execRobot:88] [main] - 打开了消息窗口。。。。。。
+2017-05-08 19:12:24.375 INFO  t.a.Action [execRobot:96] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 19:12:24.538 INFO  t.a.Action [execRobot:99] [main] - 点击了航变。。。。
+2017-05-08 19:12:25.645 INFO  t.a.Action [execRobot:110] [main] - 1、出发05-,到达SZX(深圳宝安国际机场)
+2017-05-08 19:12:25.645 INFO  t.a.Action [execRobot:120] [main] - 地址一共有1个选择
+ZH9940  2017-05-08  20:40-22:35   JUZ(衢州机场)-SZX(深圳宝安国际机场)
+
+2017-05-08 19:12:25.912 INFO  t.a.Action [execRobot:126] [main] - 页面上有211个div
+2017-05-08 19:12:26.146 INFO  t.a.Action [execRobot:133] [main] - 找到了他在22
+2017-05-08 19:12:27.921 INFO  t.a.Action [execRobot:140] [main] - 一共有4选项.
+2017-05-08 19:12:27.929 INFO  t.a.Action [execRobot:160] [main] - 变更
+2017-05-08 19:12:27.938 INFO  t.a.Action [execRobot:160] [main] - 取消,有保护航班
+2017-05-08 19:12:28.030 INFO  t.a.Action [execRobot:160] [main] - 取消,无保护航班
+2017-05-08 19:12:28.047 INFO  t.a.Action [execRobot:160] [main] - 取消后恢复
+2017-05-08 19:12:28.047 INFO  t.a.Action [execRobot:162] [main] - 该订单航班原因是：{}取消,无保护航班
+2017-05-08 19:16:46.226 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 19:16:46.230 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 19:16:48.590 INFO  t.a.Action [execRobot:57] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 19:16:48.599 INFO  t.a.Action [execRobot:58] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 19:16:48.600 INFO  t.a.Action [execRobot:59] [main] - 进入订单管理操作...
+2017-05-08 19:16:52.567 INFO  t.a.Action [execRobot:74] [main] - 回到主窗口.....
+2017-05-08 19:16:52.633 INFO  t.a.Action [execRobot:80] [main] - 订单的状态是2，为出票状态
+2017-05-08 19:16:52.818 INFO  t.a.Action [execRobot:88] [main] - 打开了消息窗口。。。。。。
+2017-05-08 19:16:53.996 INFO  t.a.Action [execRobot:96] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 19:16:54.168 INFO  t.a.Action [execRobot:99] [main] - 点击了航变。。。。
+2017-05-08 19:24:52.993 INFO  t.a.Action [<init>:43] [main] - 加载浏览器配置文件成功。。。。。。。。。。
+2017-05-08 19:24:52.996 INFO  t.a.Action [<init>:44] [main] - 打开了http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com订单管理。
+2017-05-08 19:24:55.326 INFO  t.a.Action [execRobot:57] [main] -  driver.getTitle():服务平台 - yyw.trade.qunar.com。
+2017-05-08 19:24:55.336 INFO  t.a.Action [execRobot:58] [main] -  driver.getCurrentUrl():http://fuwu.qunar.com/index.do?domain=yyw.trade.qunar.com#sid=nav_FN_ORDER&module=welcome9527|nav_FN_ORDER。
+2017-05-08 19:24:55.336 INFO  t.a.Action [execRobot:59] [main] - 进入订单管理操作...
+2017-05-08 19:24:59.379 INFO  t.a.Action [execRobot:74] [main] - 回到主窗口.....
+2017-05-08 19:24:59.443 INFO  t.a.Action [execRobot:80] [main] - 订单的状态是2，为出票状态
+2017-05-08 19:24:59.642 INFO  t.a.Action [execRobot:88] [main] - 打开了消息窗口。。。。。。
+2017-05-08 19:25:00.828 INFO  t.a.Action [execRobot:96] [main] - 消息类型一共有5个选择,出票,退票,改签,航变,投诉,
+2017-05-08 19:25:00.992 INFO  t.a.Action [execRobot:99] [main] - 点击了航变。。。。
+2017-05-08 19:25:02.094 INFO  t.a.Action [execRobot:110] [main] - 1、出发05-,到达SZX(深圳宝安国际机场)
+2017-05-08 19:25:02.094 INFO  t.a.Action [execRobot:120] [main] - 地址一共有1个选择
+ZH9940  2017-05-08  20:40-22:35   JUZ(衢州机场)-SZX(深圳宝安国际机场)
+
+2017-05-08 19:25:02.347 INFO  t.a.Action [execRobot:126] [main] - 页面上有205个div
+2017-05-08 19:25:02.583 INFO  t.a.Action [execRobot:133] [main] - 找到了他在22
+2017-05-08 19:25:04.295 INFO  t.a.Action [execRobot:140] [main] - 一共有4选项.
+2017-05-08 19:25:04.311 INFO  t.a.Action [execRobot:160] [main] - 变更
+2017-05-08 19:25:04.319 INFO  t.a.Action [execRobot:160] [main] - 取消,有保护航班
+2017-05-08 19:25:04.405 INFO  t.a.Action [execRobot:160] [main] - 取消,无保护航班
+2017-05-08 19:25:04.418 INFO  t.a.Action [execRobot:160] [main] - 取消后恢复
+2017-05-08 19:25:04.418 INFO  t.a.Action [execRobot:162] [main] - 该订单航班原因是：{}取消,无保护航班
